@@ -8,9 +8,9 @@ Welcome to my learning odyssey! This repository serves as my official log for th
 **Objective:** Master the fundamentals of computer hardware and database environment setup.
 
 ### ✅ Checklist
-- [ ] Understand the relationship between CPU, RAM, and Disk storage.
-- [ ] Successfully install **PostgreSQL**.
-- [ ] Connect **DBeaver** to the local server (The First Boss).
+- [X] Understand the relationship between CPU, RAM, and Disk storage.
+- [X] Successfully install **PostgreSQL**.
+- [X] Connect **DBeaver** to the local server (The First Boss).
 - [ ] Create the conceptual model for the "Potion Shop" (Entity-Relationship).
 
 ---
