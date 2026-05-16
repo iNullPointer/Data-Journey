@@ -9,8 +9,7 @@ Welcome to my learning odyssey! This repository serves as my official log for th
 
 ### ✅ Checklist
 - [X] Understand the relationship between CPU, RAM, and Disk storage [Level 1: Hardware - RAM vs HD](hardware/ram-vs-hd.md). 
-- [X] Successfully install **PostgreSQL**.
-- [X] Connect **DBeaver** to the local server.
+- [X] Successfully install **PostgreSQL** and connect **DBeaver** to the local server.
 - [X] Create the conceptual model for the "Potion Shop" (Entity-Relationship) [[Level 1: Database - ERD & Analogy](database/level-1-potion-shop)].
 
 ---
