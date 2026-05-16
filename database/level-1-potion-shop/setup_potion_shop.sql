@@ -93,4 +93,3 @@ select
 from orders o
 join customers c on o.customer_id = c.customer_id
 join potions p on o.potion_id = p.potion_id;
-
