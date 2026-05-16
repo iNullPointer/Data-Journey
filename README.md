@@ -22,9 +22,10 @@ Welcome to my learning odyssey! This repository serves as my official log for th
 ---
 
 ## 🏆 Achievements (Loot)
-*This section will be updated with links to my sub-projects and exercise files.*
 
-- **[N/A]** - Level 1 Boss Defeated (Coming soon...)
+This section will be updated with links to my sub-projects and exercise files.
 
+* **[Level 1 Boss Defeated]** - [Potion Shop Database](./level-1-potion-shop/)
+  * *Loot acquired:* Mastered Entity-Relationship Diagrams (ERD), table constraints (Primary & Foreign Keys), data population (`INSERT`), and relational queries (`JOIN`).
 ---
 *"Logic is my sword, and Data is my shield."*
