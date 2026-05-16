@@ -11,7 +11,7 @@ Welcome to my learning odyssey! This repository serves as my official log for th
 - [X] Understand the relationship between CPU, RAM, and Disk storage [Level 1: Hardware - RAM vs HD](hardware/ram-vs-hd.md). 
 - [X] Successfully install **PostgreSQL**.
 - [X] Connect **DBeaver** to the local server (The First Boss).
-- [X] Create the conceptual model for the "Potion Shop" (Entity-Relationship) [[Level 1: Database - ERD & Analogy](database/potion-shop-erd.md)].
+- [X] Create the conceptual model for the "Potion Shop" (Entity-Relationship) [[Level 1: Database - ERD & Analogy](database/erd-potion-shop.md)].
 
 ---
 
