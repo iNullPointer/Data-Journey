@@ -11,7 +11,7 @@ To conceptualize the dynamics of this database, we can bridge it with the comput
 ## 📐 The Diagram (ERD)
 Below is the conceptual model drafted for the project, showcasing the table structures, primary keys (PK), foreign keys (FK), and data types (including integers, decimals, timestamps, and the boolean `is_alive` state):
 
-![Potion Shop ERD](images/erd_potion_shop.png)
+![Potion Shop ERD](erd_potion_shop.png)
 
 ---
 *This model serves as the architectural blueprint for the PostgreSQL script implementation.*
