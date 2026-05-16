@@ -15,3 +15,17 @@ Below is the conceptual model drafted for the project, showcasing the table stru
 
 ---
 *This model serves as the architectural blueprint for the PostgreSQL script implementation.*
+
+## 💻 Implementation & Queries
+
+Now that the blueprint is ready, you can explore the complete database implementation and see the data in action:
+
+* 📜 **[View Full PostgreSQL Script](./setup_potion_shop.sql)** - Includes table creation (DDL), sample data insertion (DML), and testing queries.
+
+### 📊 Relational Query Output (The Power of JOIN)
+To generate a comprehensive sales report, a `JOIN` query was executed to bridge the transactional data with our master entities. Here is the live execution preview from DBeaver:
+
+![DBeaver Query Result](query_results.png)
+
+---
+*Next Quest: Level 2 Boss (Coming soon...)*
